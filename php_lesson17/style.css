@@ -1,0 +1,34 @@
+body {
+    background-color: #ccc;
+    font-size: 16px;
+}
+form {
+    width: 800px;
+    margin: 20px auto 0;
+    text-align: center;
+    font-size: 20px;
+}
+
+input[type='text'] {
+    line-height: 25px;
+    font-size: 20px;
+    background-color: #c1c3c1;
+}
+
+input[type='submit']{
+    height: 35px; border-radius: 5px;
+
+}
+#map {
+    width: 960px;
+    height: 600px;
+    margin: 40px auto;
+}
+.res-links{
+    width: 960px;
+    margin:0 auto;
+}
+.res-links a {
+    color: dimgrey;
+    margin-bottom: 10px;
+}

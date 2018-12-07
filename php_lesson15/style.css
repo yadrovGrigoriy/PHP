@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+    color: dimgrey;
+
+}
+form {
+    min-width: 500px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+a   {
+    text-decoration: none;
+}
+
+td {
+    padding: 8px;
+}
+
+thead  td {
+    background-color: #cccccc;
+    font-weight: 700;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+td {
+	border: 1px solid black;
+}
+input[type="text"] {
+    padding: 0 5px;
+    line-height: 20px;
+}
+.authorized  {
+    width: 600px;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.authorized h2 {
+    font-size: 35px;
+}
+
+.authorized a {
+    font-size: 18px;
+    color: #a09f9f;
+}
